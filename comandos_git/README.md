@@ -14,3 +14,8 @@ git init
 git add .
 git commit -m 'Mensagem'
 git remote add origin URL_DO_GIT
+
+# Para conectar o GitBash com o GitHub
+
+eval $(ssh-agent)
+ssh-add ~/.ssh/guilhermenunes_rsa
