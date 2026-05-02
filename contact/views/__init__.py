@@ -1,2 +1,2 @@
-from views.auth_view import *
-from views.index_view import *
+from .auth_view import *
+from .index_view import *
