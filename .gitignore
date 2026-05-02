@@ -16,6 +16,8 @@ env/
 venv/
 ENV/
 .vscode
+static/
+media/
 
 # Distribution / packaging
 dist/
