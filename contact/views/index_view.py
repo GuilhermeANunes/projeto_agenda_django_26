@@ -30,7 +30,7 @@ def contact(request, contact_id):
     site_title = f'{single_contact.first_name} {single_contact.last_name} - '
 
     context = {
-        'page_obj': single_contact,
+        'contact': single_contact,
         'site_title': site_title,
     }
 
