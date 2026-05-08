@@ -59,7 +59,9 @@ class ContactForm(forms.ModelForm):
             attrs={
                 'accept': 'image/*',
             }
-        )
+        ),
+        allow_empty_file=True,
+        required=False
     ) 
 
     def __init__(self, *args, **kwargs):
