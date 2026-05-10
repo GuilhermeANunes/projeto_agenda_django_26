@@ -2,7 +2,7 @@ Iniciar o projeto Django
 
 python -m venv venv
 . venv/bin/activate
-pip install django
+pip install -r requirements.txt
 django-admin startproject project .
 Configurar o git
 
@@ -18,4 +18,4 @@ git remote add origin URL_DO_GIT
 # Para conectar o GitBash com o GitHub
 
 eval $(ssh-agent)
-ssh-add ~/.ssh/guilhermenunes_rsa
+ssh-add ~/.ssh/SEU_USUARIO
