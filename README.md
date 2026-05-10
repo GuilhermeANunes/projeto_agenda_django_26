@@ -24,4 +24,4 @@ Esta é uma aplicação completa de agenda de conntatos, desenvolvida para geren
 
 ## 👨‍💻 Autor
 **Guilherme Nunes**
-- [LinkedIn]((https://www.linkedin.com/in/guilherme-nunes-cea-575596203/))
+- [LinkedIn](https://www.linkedin.com/in/guilherme-nunes-cea-575596203/)
